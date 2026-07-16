@@ -1,4 +1,4 @@
-# Contour Studio — Frontend Assessment
+# Contour Studio: Frontend Assessment
 
 A single-page responsive site built for the Floter AI React & Tailwind assessment: a marketing
 homepage for a fictional digital-product studio ("Contour Studio"), with an interactive
